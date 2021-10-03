@@ -8,4 +8,4 @@ the final work will look like this.
 ## Prerequists
 
 1. install `i3wm`. you can follow the instructions [here](https://www.tecmint.com/i3-tiling-window-manager/) 
-2. confirm installation of all required packages `sudo apt install scrot i3 rofi i3blocks feh playerctl` 
+2. install required required packages `sudo apt install scrot i3 rofi i3blocks feh playerctl` 
