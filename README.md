@@ -3,9 +3,13 @@ This will provide an easy and ready-to-go i3wm configuration.
 If you are new to i3wm you can follow these instructions to config your i3wm easily.
 
 the final work will look like this.
+![*_015](https://user-images.githubusercontent.com/26994700/135990507-d6e161a2-4f50-4fd5-a8f3-4d666adcee2a.png)
 
 
 ## Prerequists
 
 1. install `i3wm`. you can follow the instructions [here](https://www.tecmint.com/i3-tiling-window-manager/) 
-2. install required required packages `sudo apt install scrot i3 rofi i3blocks feh playerctl` 
+2. install required required packages
+```
+sudo apt install scrot i3 rofi i3blocks feh playerctl
+```
